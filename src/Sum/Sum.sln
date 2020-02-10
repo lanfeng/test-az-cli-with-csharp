@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{0E998D74-97F8-4C12-8F6F-63341DE801C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumUT", "..\..\test\SumUT\SumUT.csproj", "{E2775FD6-810F-48A2-89B6-F58C241BDE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E998D74-97F8-4C12-8F6F-63341DE801C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E998D74-97F8-4C12-8F6F-63341DE801C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E998D74-97F8-4C12-8F6F-63341DE801C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E998D74-97F8-4C12-8F6F-63341DE801C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2775FD6-810F-48A2-89B6-F58C241BDE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2775FD6-810F-48A2-89B6-F58C241BDE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2775FD6-810F-48A2-89B6-F58C241BDE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2775FD6-810F-48A2-89B6-F58C241BDE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {111AF293-3FDC-40E4-B078-0829A0384EDC}
+	EndGlobalSection
+EndGlobal

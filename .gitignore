@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/test/SumUT/obj
+/src/Sum/Sum/obj
+/src/Sum/.vs/Sum/v15
