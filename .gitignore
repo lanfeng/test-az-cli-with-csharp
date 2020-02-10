@@ -5,3 +5,7 @@
 /test/SumUT/obj
 /src/Sum/Sum/obj
 /src/Sum/.vs/Sum/v15
+/.vs/Sum/v15
+/src/Sum/obj
+/src/Sum/.vs/Sum/DesignTimeBuild
+/test/SumUT/bin/Debug/netcoreapp2.1
